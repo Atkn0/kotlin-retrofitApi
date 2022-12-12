@@ -1,2 +1,2 @@
 # kotlin-retrofitApi
-get info from api with kotlin
+getting data from api with kotlin
